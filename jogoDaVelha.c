@@ -1,4 +1,5 @@
-//Jonas Felipe Muniz Rodrigues      JOGO DA VELHA em C
+//Jonas Felipe Muniz Rodrigues      JOGO DA VELHA em C 		
+//Trabalho final da materia de BCC201
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
