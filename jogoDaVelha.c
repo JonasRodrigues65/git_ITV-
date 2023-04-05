@@ -1,4 +1,4 @@
-//Jonas Felipe Muniz Rodrigues      21.1.4048
+//Jonas Felipe Muniz Rodrigues      JOGO DA VELHA em C
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
