@@ -21,7 +21,7 @@ Este é um simples jogo da velha implementado em linguagem C. Desenvolvido como 
 1. Compile o código-fonte em um executável utilizando um compilador de C.
 2. Execute o jogo da velha.
 3. Depois de compilado, vão ter 5 opções, numeradas de 0 a 4 
-4. Vale resaltar que na opção 2 e na opção 4 estão incompletas. Não são possiveis buscar o ranking e apesar de dar pra salvar um jogo em um arquivo txt, não conseguimos buscar este arquivo.
+4. Vale ressaltar que na opção 2 e na opção 4 estão incompletas. Não são possiveis buscar o ranking e apesar de dar pra salvar um jogo em um arquivo txt, não conseguimos buscar este arquivo.
 5. Selecionando a  opção "Começar um novo jogo" voce entra em "Digite o numero de jogadores (1 ou 2):" 
 6. Para voce poder jogar, você tem alguns comandos essenciais. 
 7. Os comandos são: marcar, voltar e salvar.
